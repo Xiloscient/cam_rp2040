@@ -6083,6 +6083,16 @@
 		)
 		(uuid "0a64b906-4970-4657-b25a-7f0324e81182")
 	)
+	(text "Minor adjustments need to be made here.\nhttps://cdn.sparkfun.com/assets/7/f/c/8/3/HM01B0-MNA-Datasheet.pdf"
+		(exclude_from_sim no)
+		(at 155.194 117.602 90)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "71608820-e40c-4f5c-85d7-f746d03f39db")
+	)
 	(text "RP2040 Cam PCB 1"
 		(exclude_from_sim no)
 		(at 187.96 190.5 0)
@@ -9722,10 +9732,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bf7ee498-5443-4f88-bab3-3e95c0878ce5")
 		(property "Reference" "J2"
-			(at 153.67 114.2999 0)
+			(at 163.83 111.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9734,7 +9743,7 @@
 			)
 		)
 		(property "Value" "Conn_01x24"
-			(at 153.67 116.8399 0)
+			(at 158.242 114.554 0)
 			(effects
 				(font
 					(size 1.27 1.27)
